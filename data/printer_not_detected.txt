@@ -1,0 +1,12 @@
+Title: Printer Not Detected / Not Printing
+
+Problem: User's computer cannot find or connect to the office printer.
+
+Steps to resolve:
+1. Confirm the printer is powered on and connected to the network/Wi-Fi.
+2. On the user's PC, go to Settings > Printers & Scanners and check if the printer is listed.
+3. If not listed, click "Add Printer" and search again.
+4. Restart the print spooler service (Services app > Print Spooler > Restart).
+5. Try printing a test page.
+
+Escalation: If the printer still isn't detected, escalate to Hardware Support with the printer model and location.

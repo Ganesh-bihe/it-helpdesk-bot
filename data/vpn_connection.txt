@@ -1,0 +1,12 @@
+Title: VPN Connection Issues
+
+Problem: User is unable to connect to the company VPN, or the connection keeps dropping.
+
+Steps to resolve:
+1. Confirm the user has an active internet connection outside the VPN.
+2. Restart the VPN client application.
+3. Re-enter VPN credentials (username and password) — check for caps lock or typos.
+4. Ensure the VPN client is updated to the latest version.
+5. Restart the laptop and try reconnecting.
+
+Escalation: If the VPN still fails to connect after these steps, escalate to Network Support with the user's device name and error code shown (if any).

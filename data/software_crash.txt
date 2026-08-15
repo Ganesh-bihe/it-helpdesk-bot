@@ -1,0 +1,12 @@
+Title: Application Crashing or Freezing
+
+Problem: A specific software application crashes, freezes, or closes unexpectedly.
+
+Steps to resolve:
+1. Close and reopen the application.
+2. Restart the laptop.
+3. Check if the application has a pending update and install it.
+4. Run the application as Administrator to rule out permission issues.
+5. Check Event Viewer for related error logs if the issue repeats.
+
+Escalation: If the crash continues after these steps, escalate to Application Support with the exact error message and steps to reproduce.

@@ -1,0 +1,12 @@
+Title: Outlook Not Syncing / Emails Not Receiving
+
+Problem: User's Outlook is not receiving new emails or shows a "disconnected" status.
+
+Steps to resolve:
+1. Check the internet connection is active.
+2. In Outlook, go to Send/Receive tab and click "Update Folder".
+3. Check if Outlook is in "Work Offline" mode — click to disable it if so.
+4. Restart Outlook completely.
+5. If issue persists, remove and re-add the email account under File > Account Settings.
+
+Escalation: If sync fails after account re-add, escalate to Email/Exchange Support with the user's email address and error message.

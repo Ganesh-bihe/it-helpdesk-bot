@@ -1,0 +1,11 @@
+Title: User Account Locked Out
+
+Problem: User's account is locked after multiple failed login attempts.
+
+Steps to resolve:
+1. Confirm the user's identity (employee ID, registered email).
+2. Check the account status in Active Directory / IAM portal.
+3. Unlock the account and prompt the user to reset their password on next login.
+4. Advise the user to update saved passwords on other devices to avoid repeat lockouts.
+
+Escalation: If the account locks again within 24 hours, escalate to Security Team to check for suspicious login attempts.

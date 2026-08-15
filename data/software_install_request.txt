@@ -1,0 +1,12 @@
+Title: How to Request Software Installation
+
+Problem: User needs a new software/application installed on their work laptop.
+
+Steps to resolve:
+1. Check if the software is on the pre-approved software list (available on the internal IT portal).
+2. If approved, raise a request ticket specifying the software name, version, and business reason.
+3. Manager approval may be required for licensed/paid software.
+4. IT will remotely install the software or provide guided self-install steps.
+5. Confirm the software opens and works correctly after installation.
+
+Escalation: If the software is not on the approved list, escalate to the IT Procurement team for review.

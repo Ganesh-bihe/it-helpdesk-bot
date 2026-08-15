@@ -1,0 +1,12 @@
+Title: Laptop Running Slow
+
+Problem: User reports their laptop is slow, freezing, or taking long to open applications.
+
+Steps to resolve:
+1. Restart the laptop (resolves most temporary slowdowns).
+2. Check Task Manager for high CPU/memory usage applications and close unnecessary ones.
+3. Clear temporary files and browser cache.
+4. Check available disk space — free up space if storage is nearly full.
+5. Ensure the laptop has the latest OS and antivirus updates installed.
+
+Escalation: If performance issues persist after these steps, escalate to Hardware Support to check for possible disk or RAM issues.

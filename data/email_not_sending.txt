@@ -1,0 +1,12 @@
+Title: Unable to Send Emails
+
+Problem: User can receive emails but cannot send them; emails get stuck in the Outbox.
+
+Steps to resolve:
+1. Check internet connectivity.
+2. Confirm the email isn't oversized (large attachments can block sending) — try removing attachments and resending.
+3. Check if Outlook is in "Work Offline" mode and disable it.
+4. Restart Outlook.
+5. Check the Outbox for stuck emails and try resending manually.
+
+Escalation: If emails remain stuck after these steps, escalate to Email/Exchange Support with a screenshot of the error message.
